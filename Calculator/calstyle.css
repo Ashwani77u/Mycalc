@@ -63,7 +63,7 @@ body{
     }
     #a1{
         border-radius: 10px;
-        border: color(srgb red green blue);
+        border: color:red;
     }
 
 }
